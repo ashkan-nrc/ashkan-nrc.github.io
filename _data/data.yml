@@ -53,8 +53,6 @@ career-profile:
       is interested in advanced data analytics, predictive modelling,and intelligent decision support systems. He has intensive experience in applying 
       advanced techniques such as machine/deep learning, natural language processing, and graph analysis to problems in diverse domains such as healthcare, 
       aviation, oil and gas, tourism, and social sciences.
-      
-      
 #news:
 #    title: News
 #    intro: |
@@ -69,7 +67,7 @@ career-profile:
 #        
 #        - time: 2018
 #          title: Paper accepted as poster at ECCV18 in Munich, Germany
-
+#
 
 publications:
     title: Publications
