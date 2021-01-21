@@ -180,7 +180,8 @@ education:
     - degree: B.Sc., Computer Engineering - Minor in Software Engineering
       university: Shahid Beheshti University
       time: 2001
-      details: |
+#      details: |
+
 
 #educationcomplete:
 #    - degree: Applied Scientist full-time at AWS
@@ -231,6 +232,7 @@ education:
       #- title: Delta
         #link: "#"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 skills:
     title: Skills &amp; Proficiency
