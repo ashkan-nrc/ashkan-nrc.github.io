@@ -74,18 +74,21 @@ publications:
     intro: |
       
 
+Ashkan Ebadi, Pengcheng Xi, Stephane Tremblay, Bruce Spencer, Raman Pall, and Alexander Wong. . Accepted for publication
+in the Scientometrics journal, 2020b
+
     papers:
-      - title: "Sharing Matters for Generalization in Deep Metric Learning"
-        authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
-        conference: tPAMI, 2020
+      - title: "Understanding the temporal evolution of covid-19 research through machine learning and natural language processing"
+        authors: Ashkan Ebadi, Pengcheng Xi, Stephane Tremblay, Bruce Spencer, Raman Pall, Alexander Wong
+        conference: Scientometrics, 1-15, 2020
         
-      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-        conference: CVPR, 2020
+      - title: "Application of machine learning techniques to assess the trends and alignment of the funded research output"
+        authors: Ashkan Ebadi, Stephane Tremblay, Cyril Goutte, and Andrea Schiffauerova
+        conference: Journal of Informetrics, 14(2):101018, 2020
         
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
+      - title: "How can automated machine learning help business data science teams?"
+        authors: Ashkan Ebadi, Yvan Gauthier, Stephane Tremblay, and Patrick Paul
+        conference: 18th IEEE International Conference On Machine Learning And Applications (ICMLA), pp. 1186-1191, 2019
 
 experiences:
     - role: Senior Research Officer
