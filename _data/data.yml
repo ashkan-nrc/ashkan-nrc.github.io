@@ -34,14 +34,23 @@ sidebar:
       - idiom: Farsi
         level: Native
 
-#    interests:
-#      - item: Guitar
+    interests:
+      - item: Machine learning
 #        link:
-#
-#      - item: Basketball
+
+      - item: Deep learning
 #        link:
-#
-#      - item: Biking
+
+      - item: NLP
+#        link:
+
+      - item: Graph analysis
+#        link:
+
+      - item: Health informatics
+#        link:
+
+      - item: Scientometrics
 #        link:
 
 career-profile:
