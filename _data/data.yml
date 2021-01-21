@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: ashkan.ebadi@nrc-cnrc.gc.ca
-    phone: 
+    phone: +1 (438) 356-7602
     website:  #do not add http://
     linkedin: ashkanebadi
     github: 
@@ -34,56 +34,33 @@ sidebar:
       - idiom: Farsi
         level: Native
 
-    interests:
-      - item: Guitar
-        link:
-
-      - item: Basketball
-        link:
-
-      - item: Biking
-        link:
+#    interests:
+#      - item: Guitar
+#        link:
+#
+#      - item: Basketball
+#        link:
+#
+#      - item: Biking
+#        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Currently full-time Applied Scientist at AWS. After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image processing under the supervision of Bjoern Ommer.
-      Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
-
+      Dr. Ashkan Ebadi received his PhD in information systems engineering with an emphasis on design and implementation of intelligent decision support 
+      systems using machine learning techniques. He is currently a senior research officer at the National Research Council Canada (NRC). He is also 
+      an affiliate assistant professor at Concordia University, and a senior IEEE member. As a multidisciplinary applied data science researcher, Ashkan 
+      is interested in advanced data analytics, predictive modelling,and intelligent decision support systems. He has intensive experience in applying 
+      advanced techniques such as machine/deep learning, natural language processing, and graph analysis to problems in diverse domains such as healthcare, 
+      aviation, oil and gas, tourism, and social sciences.
+      
+      
 news:
     title: News
     intro: |
         
     
     posts:
-        - time: December 2020
-          title: Defending my PhD Thesis. Magna cum Laude
-
-        - time: October 2020
-          title: Starting a new position as Applied Scientist with AWS
-
-        - time: June 2020
-          title: Outstanding Reviewer at CVPR 2020
-
-        - time: June 2020
-          title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
-        
-        - time: February 2020
-          title: The work done during my internship was accepted as publication at CVPR 2020
-          
-        - time: July 2019
-          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
-          
-        - time: July 2019
-          title: One paper accepted at ICCV19
-          
-        - time: January 2019
-          title: Selected as reviewer for ICCV19
-        
-        - time: December 2018
-          title: Selected as reviewer for CVPR19
-        
         - time: Sptember 2018
           title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
         
@@ -92,107 +69,54 @@ news:
         
         - time: 2018
           title: Paper accepted as poster at ECCV18 in Munich, Germany
-        
-        - time: 2017
-          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
-        
-        - time: 2017
-          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
-    - degree: Applied Scientists full-time at AWS
-      university: Germany
-      time: 2020 Oct - current
+    - degree: Ph.D., Information Systems Engineering
+      university: Concordia University, Canada
+      time: 2010 Sep - 2014 Oct
       details: |
       
-    - degree: Applied Scientists Intern at AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 July - Dec
+    - degree: M.Sc., Computer Science
+      university: Concordia University, Canada
+      time: 2011 Sep - May 2016
       details: |
      
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - 2020
+    - degree: M.Sc., Socio-Economic Systems Engineering
+      university: Mazandaran University, Iran
+      time: 2007
       details: |
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
+    - degree: B.Sc., Computer Engineering{Minor in Software Engineering
+      university: Shahid Beheshti University
+      time: 2001
       details: |
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
+#educationcomplete:
+#    - degree: Applied Scientist full-time at AWS
+#      university: Germany
+#      time: 2020 Oct - current
+#      details: |
+#      
+#    - degree: Applied Scientists Intern at AWS
+#      university: P. Perona, Pasadena, CA, USA
+#      time: 2019 July - Dec
+#      details: |
+#
+#    - degree: PhD in Computer vision and Machine learning
+#      university: Heidelberg University
+#      time: 2015 - 2020
+#      details: |
+#        Unsupervised deep learning for automatic behavior analysis
+#
+#          - Unsupervised learning
+#          - Representaion learning
+#          - Automatic Behavior Analysis
+#
 
-
-educationcomplete:
-    - degree: Applied Scientist full-time at AWS
-      university: Germany
-      time: 2020 Oct - current
-      details: |
-      
-    - degree: Applied Scientists Intern at AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 July - Dec
-      details: |
-
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - 2020
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
-
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-          - Deep learning
-          - Hand Gesture
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
-
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-        Master degree in Computer Engineering
-
-
-#experiences:
-    #- role: Lead Developer
-      #time: 2015 - Present
-      #company: Startup Hubs, San Francisco
+experiences:
+    - role: Senior Research Officer
+      time: 2018 Nov - Present
+      company: National Research Council Canada (NRC)
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -207,9 +131,9 @@ educationcomplete:
           #- Bullet point
           #- Bullet point
 
-    #- role: Senior Software Engineer
-      #time: 2014 - 2015
-      #company: Google, London
+    - role: Affiliate Assistant Professor
+      time: 2019 Nov - Present
+      company: Concordia University, Canada
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -220,9 +144,9 @@ educationcomplete:
           #- Bullet point
           #- Bullet point
 
-    #- role: UI Developer
-      #time: 2012 - 2014
-      #company: Amazon, London
+    - role: Consultant Faculty
+      time: 2019 Sep - 2020 Dec
+      company: University of Florida, USA
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -232,6 +156,34 @@ educationcomplete:
 
           #- Bullet point
           #- Bullet point
+
+    - role: Lead Data Scientist
+      time: 2017 Sep - 2018 Nov
+      company: Pratt and Whitney, Canada
+
+    - role: Senior Researcher
+      time: 2017 Apr - 2017 Sep
+      company: Provalis Research, Canada
+
+    - role: Postdoctoral Associate
+      time: 2015 Apr - 2017 Apr
+      company: University of Florida, USA
+
+    - role: Postdoctoral Research Fellow
+      time: 2014 Oct - 2015 Apr
+      company: Concordia University, Canada
+
+    - role: Research Analyst and Software Developer
+      time: 2014 Mar - 2014 Nov
+      company: Science-Metrix, Canada
+
+    - role: Project Manager
+      time: 2002 Nov - 2010 Oct
+      company: CMGD, Iran
+
+    - role: Software Developer
+      time: 2001 May - 2002 Jul
+      company: Tosan (Kishware), Iran
 
 #projects:
     #title: Projects
@@ -278,30 +230,6 @@ publications:
       - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
         authors: B. Brattoli*, K. Roth*, B. Ommer
         conference: ICCV, 2019
-
-      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-        authors: B. Brattoli*, U. Buechler*, B. Ommer
-        conference: ECCV, 2018
-
-      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-        conference: CVPR, 2017
-
-      - title: "Cross and Learn: Cross-Modal Self-Supervision"
-        authors: N. Sayer, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
-
-      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-        authors: O. Blum, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
-
-      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-        conference: "Nature Communications, 2017"
-        
-      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
     title: Skills &amp; Proficiency
