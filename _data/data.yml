@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: ashkan.ebadi@nrc-cnrc.gc.ca
     phone: +1 (438) 356-7602
-    website:  scholar.google.ca/citations?user=QY04IUkAAAAJ&hl=en#do not add http://
     linkedin: ashkanebadi
+    website:  scholar.google.ca/citations?user=QY04IUkAAAAJ&hl=en  #do not add http://
     github: 
     gitlab:
     bitbucket:
@@ -55,63 +55,39 @@ career-profile:
       aviation, oil and gas, tourism, and social sciences.
       
       
-news:
-    title: News
+#news:
+#    title: News
+#    intro: |
+#        
+#    
+#    posts:
+#        - time: Sptember 2018
+#          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
+#        
+#        - time: July 2018
+#          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
+#        
+#        - time: 2018
+#          title: Paper accepted as poster at ECCV18 in Munich, Germany
+
+
+publications:
+    title: Publications
     intro: |
-        
-    
-    posts:
-        - time: Sptember 2018
-          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
-        
-        - time: July 2018
-          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
-        
-        - time: 2018
-          title: Paper accepted as poster at ECCV18 in Munich, Germany
-
-education:
-    - degree: Ph.D., Information Systems Engineering
-      university: Concordia University, Canada
-      time: 2010 Sep - 2014 Oct
-      details: |
       
-    - degree: M.Sc., Computer Science
-      university: Concordia University, Canada
-      time: 2011 Sep - May 2016
-      details: |
-     
-    - degree: M.Sc., Socio-Economic Systems Engineering
-      university: Mazandaran University, Iran
-      time: 2007
-      details: |
 
-    - degree: B.Sc., Computer Engineering - Minor in Software Engineering
-      university: Shahid Beheshti University
-      time: 2001
-      details: |
-
-#educationcomplete:
-#    - degree: Applied Scientist full-time at AWS
-#      university: Germany
-#      time: 2020 Oct - current
-#      details: |
-#      
-#    - degree: Applied Scientists Intern at AWS
-#      university: P. Perona, Pasadena, CA, USA
-#      time: 2019 July - Dec
-#      details: |
-#
-#    - degree: PhD in Computer vision and Machine learning
-#      university: Heidelberg University
-#      time: 2015 - 2020
-#      details: |
-#        Unsupervised deep learning for automatic behavior analysis
-#
-#          - Unsupervised learning
-#          - Representaion learning
-#          - Automatic Behavior Analysis
-#
+    papers:
+      - title: "Sharing Matters for Generalization in Deep Metric Learning"
+        authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
+        conference: tPAMI, 2020
+        
+      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
+        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
+        conference: CVPR, 2020
+        
+      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
+        authors: B. Brattoli*, K. Roth*, B. Ommer
+        conference: ICCV, 2019
 
 experiences:
     - role: Senior Research Officer
@@ -185,6 +161,49 @@ experiences:
       time: 2001 May - 2002 Jul
       company: Tosan (Kishware), Iran
 
+education:
+    - degree: Ph.D., Information Systems Engineering
+      university: Concordia University, Canada
+      time: 2010 Sep - 2014 Oct
+      details: |
+      
+    - degree: M.Sc., Computer Science
+      university: Concordia University, Canada
+      time: 2011 Sep - May 2016
+      details: |
+     
+    - degree: M.Sc., Socio-Economic Systems Engineering
+      university: Mazandaran University, Iran
+      time: 2007
+      details: |
+
+    - degree: B.Sc., Computer Engineering - Minor in Software Engineering
+      university: Shahid Beheshti University
+      time: 2001
+      details: |
+
+#educationcomplete:
+#    - degree: Applied Scientist full-time at AWS
+#      university: Germany
+#      time: 2020 Oct - current
+#      details: |
+#      
+#    - degree: Applied Scientists Intern at AWS
+#      university: P. Perona, Pasadena, CA, USA
+#      time: 2019 July - Dec
+#      details: |
+#
+#    - degree: PhD in Computer vision and Machine learning
+#      university: Heidelberg University
+#      time: 2015 - 2020
+#      details: |
+#        Unsupervised deep learning for automatic behavior analysis
+#
+#          - Unsupervised learning
+#          - Representaion learning
+#          - Automatic Behavior Analysis
+#
+
 #projects:
     #title: Projects
     #intro: >
@@ -212,24 +231,6 @@ experiences:
       #- title: Delta
         #link: "#"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      
-
-    papers:
-      - title: "Sharing Matters for Generalization in Deep Metric Learning"
-        authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
-        conference: tPAMI, 2020
-        
-      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-        conference: CVPR, 2020
-        
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
 
 skills:
     title: Skills &amp; Proficiency
