@@ -96,37 +96,31 @@ publications:
       - title: "How can automated machine learning help business data science teams?"
         authors: Ashkan Ebadi, Yvan Gauthier, Stephane Tremblay, and Patrick Paul
         conference: 18th IEEE International Conference On Machine Learning And Applications (ICMLA), pp. 1186-1191, 2019
+        
+      - title: "A quest for the structure of intra-and postoperative surgical team networks: does the small-world property evolve over time?"
+        authors: Ashkan Ebadi, Patrick Tighe, Lei Zheng, and Parisa Rashidi
+        conference: Social Network Analysis and Mining 9, no. 1, 2019
+        
+      - title: "MySurgeryRisk: development and validation of a machine-learning risk algorithm for major complications and death after surgery"
+        authors: Azra Bihorac, Tezcan Ozrazgat-Baslanti, Ashkan Ebadi, Amir Motaei, Mohcine Madkour, ..., and Petar Momcilovic.
+        conference: Annals of surgery 269, no. 4, 2019
+        
+      - title: "Ensemble classification of alzheimer's disease and mild cognitive impairment based on complex graph measures from diffusion tensor images"
+        authors: Ashkan Ebadi, Josue L Dalboni da Rocha, Dushyanth B Nagaraju, Fernanda Tovar-Moll, ..., and Parisa Rashidi.
+        conference: Frontiers in Neuroscience, 11, 2017
+        
+      - title: "DisTeam: A decision support tool for surgical team selection"
+        authors: Ashkan Ebadi, Patrick J Tighe, Lei Zhang, and Parisa Rashidi
+        conference: Artificial Intelligence in Medicine, 76:16{26, 2017
 
 experiences:
     - role: Senior Research Officer
       time: 2018 Nov - Present
       company: National Research Council Canada (NRC)
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        #error sit voluptatem accusantium doloremque laudantium, totam rem
-        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        #architecto beatae vitae dicta sunt explicabo.
-
-          #- Bullet point
-          #- Bullet point
 
     - role: Affiliate Assistant Professor
       time: 2019 Nov - Present
       company: Concordia University, Canada
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
 
     - role: Consultant Faculty
       time: 2019 Sep - 2020 Dec
@@ -168,6 +162,7 @@ experiences:
     - role: Software Developer
       time: 2001 May - 2002 Jul
       company: Tosan (Kishware), Iran
+
 
 education:
     - degree: Ph.D., Information Systems Engineering
